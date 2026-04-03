@@ -1,2 +1,2 @@
-VERSION=2.1
-URL=https://raw.githubusercontent.com/hkepropelled/esp32-test1/refs/heads/main/A_A.hex
+VERSION=2.2
+URL=https://raw.githubusercontent.com/hkepropelled/esp32-test1/refs/heads/main/A_VCL.hex
