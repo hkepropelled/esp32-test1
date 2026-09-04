@@ -1,2 +1,2 @@
-VERSION=3.2
-URL=https://raw.githubusercontent.com/hkepropelled/esp32-test1/refs/heads/main/ATorM.hex
+VERSION=3.3
+URL=https://raw.githubusercontent.com/hkepropelled/esp32-test1/refs/heads/main/BL_HWT1M.hex
