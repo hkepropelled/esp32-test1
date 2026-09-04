@@ -1,2 +1,2 @@
-VERSION=3
+VERSION=3.1
 URL=https://raw.githubusercontent.com/hkepropelled/esp32-test1/refs/heads/main/BL_HWT1M.hex
